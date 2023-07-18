@@ -41,3 +41,4 @@ Make sure to include the GSAP library using the provided script tag or by downlo
 The code provided is compatible with modern web browsers that support HTML5, CSS3, and JavaScript. It utilizes GSAP's animation capabilities, so it requires a browser with JavaScript enabled.
 
 ## Preview
+<img width="389" alt="Screenshot 2023-07-18 104346" src="https://github.com/Aarzoo75/Upload-Animation-with-GSAP/assets/59678435/597c4bb7-58ac-460b-a16f-bc1ada3d2ef3">
